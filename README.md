@@ -52,7 +52,7 @@ Use the `README.md` to get started.
 - |❌| Create same script for QBCore Framework
 - |❌| Try to create HUD for script (easier creating blips)
 - |❌| 10 sold copies
-- 
+
 See the [open issues](https://github.com/Axor58/ONE_EasyBlips/issues) for a full list of proposed features (and known issues).
 
 <!-- LICENSE -->
